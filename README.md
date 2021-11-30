@@ -3,7 +3,7 @@ Run the following commands:
 
 `git clone git@github.com:tjbo/electron-rescript-setup.git`
 
-`yarn`
+`cd electron-rescript-setup && yarn`
 
 In one terminal window run: `yarn run rescript`
 
