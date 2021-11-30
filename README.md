@@ -5,8 +5,8 @@ Run the following commands:
 
 `yarn`
 
-`yarn run rescript`
+In one terminal window run: `yarn run rescript`
 
-`yarn run electron`
+In another terminal window run: `yarn run electron`
 
 [For more in depth instructions checkout this post](https://eitherorelse.com/rescript/how-to-setup-electron-with-rescript).
