@@ -1,0 +1,21 @@
+{
+  "name": "electron-rescript-starter-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjbo/electron-rescript-setup.git",
+  "author": "tjbo <tom@prototypable.ca>",
+  "license": "MIT",
+  "scripts": {
+    "electron": "electron .",
+    "rescript": "rescript build -w -with-deps"
+  },
+  "devDependencies": {
+    "electron": "^16.0.2",
+    "rescript": "^9.1.4"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
