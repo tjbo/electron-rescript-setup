@@ -9,4 +9,4 @@ In one terminal window run: `yarn run rescript`
 
 In another terminal window run: `yarn run electron`
 
-[For more in depth instructions checkout this post](https://eitherorelse.com/rescript/how-to-setup-electron-with-rescript).
+[For more in depth instructions checkout this post](https://https://www.prototypable.io/rescript/how-to-setup-electron-with-rescript).
